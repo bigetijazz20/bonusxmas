@@ -1192,84 +1192,84 @@ setInterval(function(){
                 // Testimonials Data
     const sampleTestimonials = [
     {
-        name: "Aisha Musa",
+        name: "Mirayaz Abbasli",
         initial: "A",
-        profilePic: "Aisha.png",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Bb0oVGyHVSLBtctm6VoCtq2Ikgs8k9RO0HIdL39Q7HOe4AxrfxtT2MqJk-lQzzdQMvJRodyLC06u_4OAbUeFmWyB8EuP8S9xqBxPu0Dz05PWWCzjVR33Uscht_6PNY243XzQVdYvKk4Apz6x8BuynSrr6AVZ4aLYhJQrH4NJmpJM3GmRlgwMIE6WTHM/s851/IMG_4155.jpeg",
         message: "I shared and received KGS10,000. This support really helped me a lot.",
         timestamp: "2m ago",
         hasImage: true,
       
     },
     {
-        name: "Sani Abdullahi",
+        name: "Vasif Nuraddinov",
         initial: "S",
-        profilePic: "Sani.png",
-        message: "Honestly, I didn’t expect it to be this easy. I applied and after a few days I received ₦25,00!",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_gDKUA_kGmLhczje3Ru90gNGoAVDcdlq6gWKdwwaDrHUHa_FRJV5txKx48qNAWr1nY-0S4RAPtCOgoNy3eD5lrC9dcgpzTKIOwgH5RVa5fCUbqrha3VxEWWQRQpNHNQCfUbS6vanyvdqHxHJDGOWPMZWVYhwllArja2Xfel4EzqPk-xlwvI0rtyDvFfA/s1002/IMG_4157.jpeg",
+        message: "Honestly, I didn’t expect it to be this easy. I applied and after a few days I received kgs10,000!",
         timestamp: "4m ago",
         hasImage: false
     },
     {
-        name: "Zainab Ibrahim",
+        name: "Sabir Hesenov",
         initial: "Z",
-        profilePic: "Zainab.png",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYhXhFBcvGPc5ykg36tfeSUpOlxZDRtXL6v1LwIS-IOWxUsBwOWeIkQ123_S5G1dfolANdPXlqu59oHo0D-twUdQIczrL9DFpm-PJsfb0O9QhZmJ4tPJ34gWY7QOnE9SdoBEe5HC-HooLPOFlbNVeFwAImp3N1N2EXSFgJNqaoReapX4YiAU-6VV66o-g/s1536/IMG_4158.jpeg",
         message: "The support came at the time I needed it most. I used it to buy goods for my business.",
         timestamp: "7m ago",
         hasImage: true,
         
     },
     {
-        name: "Usman Aliyu",
+        name: "Xalid Naciyev",
         initial: "U",
-        profilePic: "us.png",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZZcwLYiL7pRKw9C1tnKzIQlzr7PxZqSUsYh41OnMq9uicLqGB2_JP0jgMHhIAeGKoqiznKZeUQTVei6_P25f2CdBzMf4_SjZCf_ppsPc2w0uDUa4DQFr7qulCHgWJIG9GibsEmllQMRBKChrmU41BSujcfhRYxOckMPH0f64HIIg102ykzcuIEBZflg/s854/IMG_4159.jpeg",
         message: "I received KGS10,000. I started my POS business with the money.",
         timestamp: "10m ago",
         hasImage: false
     },
     {
-        name: "Maryam Suleiman",
+        name: "Rovsen Mammadov",
         initial: "M",
-        profilePic: "Maryam.png",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIeuta8Py7C7XaEci3g0Si4VGQvPi721Wh89melb2TdckgWt-EQnVUdaEaErzfSwnA3KF8vsqzdDL9wyWZ8-2jxJWeaJWP3cMBBf06vHZlLPBaZ6rJqUSJx1mGFri_B6GdyIm20-HzQ-bUjqrECTyuW7E_5XINMCfVygDqfgd5zILCoUMuHI-O-xbWpr8/s2048/IMG_4160.jpeg",
         message: "I’m a student and this support helped me pay my hostel fees and buy books.",
         timestamp: "12m ago",
         hasImage: true,
        
     },
     {
-        name: "Kabiru Lawal",
+        name: "Maarif Musayev",
         initial: "K",
-        profilePic: "Sani.png",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GbZcHd_0nC14G6KM4AfZ3IEEGmvCFxDII8XZXbZ0oQvfpHwoWJPG6N3tLOjiAohwkZjjqRqQ3QgptraO41q-0DbfNT2KyBDOMT28V3xiDw4sTMCJIOL_U9cg_OcdNonZWE9Befg7-D27N4cMwuUXkChNUtUuHpa5b6zRo4llKA6Qa_y5vaOi3afx1pk/s200/IMG_4161.jpeg",
         message: " I received KGS10,000 directly into my account.",
         timestamp: "14m ago",
         hasImage: false
     },
     {
-        name: "Hafsat Abubakar",
+        name: "Фазил Тагиев",
         initial: "H",
-        profilePic: "Hafsat.png",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV7vxAvMYFFnpjcxZQS8Qs_Yn6n9ZV1zGAv_s8cc5jytlDBo8w8cpnKQtbRKsPWxpF023wrACpUm3u1nkTfmb-coyk2SQO6X23xoBcl7wNIxYjLgMZmvz78x1yWOjKZO9P-C4m5-9SktHWE43poZckj02Sd7wvdfdgtUvLE-9g2umVWxIeePrgOZywYzA/s822/IMG_4162.jpeg",
         message: "My friends shared this link to me  I have received KGS10,000 too.",
         timestamp: "16m ago",
         hasImage: true,
     },
     {
-        name: "Ibrahim Garba",
+        name: "Парвиз Аскеров",
         initial: "I",
-        profilePic: "Ibrahim.png",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmXYIEGcn5i2tsnUBfMxLCgiz9r3t8D_e_AWtTPCuXtRrZd9Cy_8xHZ7izI9GISRXyUrpUTWH56IIca_H_1_PzZd0BjTwU5uG7ocvr2P765HqLFQX_ZgdSMm7nnK3mncGPrhSEt0aeYE_FbTDyRkNzGByp5YvkxWfGA4DTIADPEBZ_vrVmodG1dTXxc0Y/s2048/IMG_4163.jpeg",
         message: "I received ₦100,000. I used it to settle my debts.",
         timestamp: "18m ago",
         hasImage: true,
     },
     {
-        name: "Rukaiya Yusuf",
+        name: "Saleh Mirzoyev",
         initial: "R",
-        profilePic: "Rukaiya.png",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhbHP-zaQthzqCm4KP0Wro2rWFALfVMzq-Tkkik-k30LKdIL4DHWdMb1AhxhrZWwZ1P1ZtRRgkVuhTvNBgMrw6cCCDupmz2tuGWMvEjVh7K41YlUVaHUjQXucT6dcXvUTam1VN7WqwSfOiXsalZ7PUh39IFHtKD28Rr1B6xwT5KTRuwH09wuePg4jPbu4/s960/IMG_4164.jpeg",
         message: "This is a great opportunity. Hurry up and apply before the deadline.",
         timestamp: "20m ago",
         hasImage: false
     },
     {
-        name: "Musa Mohammed",
+        name: "Ruslan Hasanov",
         initial: "M",
-        profilePic: "Musa.png",
+        profilePic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRAG1KmYjBW9aURnAdepH47q2b3i-yZ7RsEHrieYHd4_IDGkAVIRAMtmfDX6hmCp3VOd6q4_0EA10OAXwCeWibNsYdTLeklHx6dC5T8otz77upEnzkx9PeB_N59kWUbYEvfj4VkdHI0XsB0IEHshZqamYUC6oS4kTYJAHPKHjOVSnthOmo25YxzMubdfw/s960/IMG_4165.jpeg",
         message: "Thank you so much. I have now received KGS10,000 from this. This is real, not fake.",
         timestamp: "22m ago",
         hasImage: false
